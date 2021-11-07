@@ -1,0 +1,11 @@
+*
+!/.gitignore
+!/app
+!/app/*/
+!/app/code/**
+!/app/design/**
+!/app/etc/config.php
+!/auth.json
+!/composer.json
+!/composer.lock
+!README.md
